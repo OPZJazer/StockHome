@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "serene-bastion-443613-s8",
+  "private_key_id": "0c7b5a6f0e552f9deb3f46a39061e7300295b581",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPTSoQgDRm2S7Y\nvdNITnZ8Yv4tjtbxJOKTx6VgJyUQjJgYKeR68vNcOwCXhmvlIyhefcdXUX1pD7nC\n2iuH6cD4u9CwWBj9qcEGgOiO6NDq2BtFvSUSLVdIO6y5w+s73seO5GKTM6ZJqRyG\n16aLJvjW3fFW+w5YlDMFnfWS/Xp5bWE2X4aNcyntA/EWKU4CJZWHK38JL4QdvvOk\nBam/yjKjVlkjvH9uX6u5ZXIFPDVmfPEaRRfPMrxg6ORrynadRwVQ6BEs0b0Vx4O7\nP6EsRDZ8PWMIr6BdFV8fWER8lciMFd3nrkWV/18/JnwQ4/eqsK6QzU40ppOpe3Hd\nGuXNx5XdAgMBAAECggEAMyF9WNXl3KyxonRY5vvYGxnXR7onx3M5xTD/OQe+meEQ\ng86uz4/QdaA33dkAtomM5epLLkTNUqdhyLy/u4cUa6vYEpPcluXzEbb9Q8Ceiq0B\nTijnCU1UT1m7j6zwSjR7T+j9ozhSpQXKP/LCYfRN5ZzbeAWsYL7AVci+zuvSv3BX\nB0jYxK/vJRW29m8+P1rcad3QHU3ntVYJJjnYnG2gqHdkb++434HpZWgUeJmmJU9b\nRJtJ4cFoCbWQG2ONW6XIlzNDB/otUTZA97eiBoW4ejN++Hz9ugVUlto+MRWtCRIz\nqC7m0ZXyyirs86/flnLq793kLmOu3dUYWT1ziKh0oQKBgQDBMdry+N8HLsMUa/En\n+HTdpUH4+i78vJLs5lvwSlClZQ4z/5y4/C9e7Wl1G63WvdrCrRIMbhcHJTgytgW4\nWALPw88C4PUdX2JDOOReaJPsIlH8t47o4QJBDBK+0C7zGY4G3xzStOzKkbBKmznh\n6b0yPP/UdThJmxiT/y/fw6FHvwKBgQC94xAuMDPt9t2AIjmsfYxUsFEcUFv/EVKU\nI0/g+heUiIzXugSHTvNVYyInHnnNSQWq1gzJucrDYyDHPp4zBm+wz54RPRdVOzeZ\nKeSRsgAAFUzG9oaBdTW6L9X523pijfOwNXgmEKoi0hh9q6YyD5JXxoZnIjlVKZSh\n+sGiCuTpYwKBgB3AvNSAiXCEvhxuB0S9mdnssn1Solvf+syrKWuXNlZSet59Njiy\n9eSrsXsMmTgiIweqOcZaSgears34hGcAfuZaZI4v8O/mGa76mwkDGAzcuD2wUz0A\nMiWsY1KpoyFjRSE/ySOWI4WK7FiBEWf+ZFnRVSD2MIX9ccqRGWFfsn3nAoGAeXk5\nj6Kshc3IM0ExzgPe8wp8SPWrdIfbYQMaBZ1X2mBkYVkRrpG2Hui1H3tihg3xvzEB\nq0bczJOsk2megJvcdarLvtFrDM4+KhBftUi+sU7u99UbhNO7lCkn5JggOc3/l7kM\n7KT6gh4PJs3ZGutVPiu1LWL6dF2ORPUKTCRV/msCgYEAqAw7KpvN37Df4xogrfZZ\nG3jsoI54kmDYItkzf2aDA/0Ro+L3n2NDX60BAhoCZPIvH5jYMlWM6FY0Oa55t4jC\nkd5iu2IVYrfIKsngIigDfAj86zIwpJ4Pa0Y9/WG6HkxJWI7+5X0qeFug2wkovkNW\neuATItsGIieyB6HT8hPKceI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ai-cam1@serene-bastion-443613-s8.iam.gserviceaccount.com",
+  "client_id": "110236514943437773424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ai-cam1%40serene-bastion-443613-s8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
